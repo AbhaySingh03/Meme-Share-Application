@@ -1,0 +1,4 @@
+This is a meme share application.  
+1)Load Meme through API from reddit.
+Api link (ttps://meme-api.herokuapp.com/gimme).
+It also has share features.
