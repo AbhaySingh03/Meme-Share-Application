@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
     private fun loadMeme(){
         // Instantiate the RequestQueue.
         progressBar.visibility = View.VISIBLE
-
+        //Api
         val url = " https://meme-api.herokuapp.com/gimme"
 
 // Request a string response from the provided URL.
